@@ -41,7 +41,9 @@ The extension will send message every 5s.
 
 
 
+# com.company.app_test.json
 
+The path and allowed_origins need to b updated.
 
 
 
