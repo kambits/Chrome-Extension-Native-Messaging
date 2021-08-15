@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# host
+*/__pycache__/
+*/build
+*/host.log
+*/host.spec
