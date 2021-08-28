@@ -1,0 +1,9 @@
+{
+    "path" : "host/host",
+    "allowed_origins" : [
+      "chrome-extension://mkkpmhcaogholkmofnmbhkbgdcdfinif/"
+    ],
+    "name" : "com.company.app_test",
+    "type" : "stdio",
+    "description" : "Example host for native messaging"
+}
